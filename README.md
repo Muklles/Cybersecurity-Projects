@@ -63,3 +63,7 @@ Applying programming to cybersecurity tasks
 You can clone this repository to your local machine using:
 
 git clone https://github.com/yourusername/your-repo-name.git
+
+# PS!!!
+
+Most of the projects will be in portuguese, since thats my mother language!
