@@ -1,58 +1,24 @@
-# My Cybersecurity Portfolio
+# My Project Portfolio
 
-Welcome to my portfolio! Here you will find a collection of cybersecurity projects, hands-on labs, and scripts I have developed over time. The repository is organized into separate folders for easy navigation and clarity.
-
+Welcome to my portfolio! Here you will find some of the projects I have developed over time, organized in separate folders for easy navigation.
 
 ## About Me
 
-I am Leonardo, a student passionate about cybersecurity, programming, and technology. This repository showcases my learning journey through practical labs, forensic analysis, and Python development, with a strong focus on understanding methodology and real-world security concepts.
+I am Leonardo, a student passionate about programming and technology. Here I share my work and learning experiences.
 
 ## Projects
 
-Each folder in this repository corresponds to a different project or learning area. Inside each folder, you can find documentation, notes, scripts, and other related files describing the approach and techniques used.
+Each folder in this repository corresponds to a different project. Inside each folder, you can find the source code, documentation, and other related files.
 
-Project Areas
-TryHackMe Labs
+### Courses / Labs List
 
-Hands-on cybersecurity labs focused on practical offensive and defensive techniques.
+#### [Forensics](./Forensics)
 
-## What I learned:
+Projects developed as part of my digital forensics learning, showcasing practical experience with investigation, analysis, and cybersecurity tools.
 
-Network and service enumeration
+#### [Packet Tracer](./Packet%20Tracer)
 
-Web application security fundamentals
-
-Linux and Windows privilege escalation
-
-Structured problem-solving methodologies
-
-Digital Forensics Projects
-
-Projects centered on analyzing systems, files, and artifacts to understand security incidents.
-
-## What I learned:
-
-File and artifact analysis
-
-Timeline creation and investigation basics
-
-Log analysis and incident reasoning
-
-Forensic documentation practices
-
-Python Security Projects
-
-Python scripts and small tools created to support security analysis and automation.
-
-## What I learned:
-
-Python scripting for automation
-
-Parsing data and logs
-
-Writing reusable and documented code
-
-Applying programming to cybersecurity tasks
+Network simulation projects using Packet Tracer, demonstrating knowledge in network configuration, VLANs, subnets, DHCP, SSH, and network troubleshooting.
 
 ## Ethical Notice
 
@@ -63,5 +29,6 @@ Applying programming to cybersecurity tasks
 You can clone this repository to your local machine using:
 
 git clone https://github.com/yourusername/your-repo-name.git
+
 
 
