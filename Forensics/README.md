@@ -4,7 +4,7 @@ Projects developed as part of my digital forensics learning, focusing on investi
 
 ## Project List
 
-### [Caso 1 - Vandalismo](./Caso%201%20-%20Vandalismo)
+### [Caso 1 - Vandalismo](./Caso%201%20-%20Vandalismo.pdf)
 
 A case study based on a local vandalism investigation involving eggs thrown in the neighborhood, where police questioned a suspect and analyzed device logs.
 
@@ -16,7 +16,7 @@ A case study based on a local vandalism investigation involving eggs thrown in t
 
 ---
 
-### [Caso 2 - Mitchell Jones](./Caso%202%20-%20Mitchell%20Jones)
+### [Caso 2 - Mitchell Jones](./Caso%202%20-%20Mitchell%20Jones.pdf)
 
 A digital investigation of a homicide case that occurred in the USA, analyzing evidence and reconstructing the timeline of events.
 
